@@ -3,6 +3,11 @@ Custom PiHAT designed for the Raspberry Pi 4b using KiCad to fit the TI DLPDLCR2
 
 Design files including, schematics, PCB editor, and gerber files.
 
+![completed_1](https://github.com/JonWakefield/TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board/assets/67289517/5a7a64d9-95c7-471a-8cd0-c8f8d563297e)
+
+
+![completed_3](https://github.com/JonWakefield/TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board/assets/67289517/8856dd77-0521-4574-a6d2-b3a24d355ba0)
+
 
 ## Schematics:
 
@@ -19,10 +24,16 @@ Design files including, schematics, PCB editor, and gerber files.
 
 ## Board Layout:
 
-### Board Editor:
+### Board Layout:
 ![pi_HAT_rev2](https://github.com/JonWakefield/TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board/assets/67289517/7e5647c8-07d0-4981-b0dc-ffd05b3104fe)
 
 ### 3D Model:
 ![PiHAT 3D model](https://github.com/JonWakefield/TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board/assets/67289517/a573f4f3-3a17-41ec-84ff-8db96e8a0098)
 
+
+## BOM:
+![bom_rev1](https://github.com/JonWakefield/TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board/assets/67289517/a0326d20-7bb8-4cd3-9dae-177c4edf72c0)
+
+
+If you have any additional questions or comments regarding this project, please feel free to reach out to me at jonwakefield.mi@gmail.com
 
