@@ -7,12 +7,13 @@ Design files including, schematics, PCB editor, and gerber files.
 ## Schematics:
 
 ### Pi Pin Headers:
+ - Pin header layout for RPi to TI-DLPDLCR2000EVM connection.
+ - All unused GPIOS (22, 25, 26, 27) are pulled out to a female connector for user convenience.
+ - 3.3V and 5V lines are pulled out to female connectors for user convenience. 
 ![Pi_Headers](https://github.com/JonWakefield/TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board/assets/67289517/c8b0fc47-acd2-4b46-a3c3-872167303778)
 
-### General Purpose Header Pins:
-![gen_headers](https://github.com/JonWakefield/TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board/assets/67289517/646642c4-5d8d-4826-bdf5-29615dbfc60d)
-
 ### Projector Header Pins:
+ - Pin Header connections following the proper connection set-up.
 ![Projector_headers](https://github.com/JonWakefield/TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board/assets/67289517/9ac45020-ceda-46e5-bbe4-2573e1580321)
 
 
