@@ -1,7 +1,7 @@
 # TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board
 Custom PiHAT designed for the Raspberry Pi 4b using KiCad to fit the TI DLPDLCR2000EVM evaluation board.
 
-Design files including, schematics, PCB editor, and gerber files.
+All files including, schematics, PCB editor, and gerber files loced in 'Design Files'.
 
 ![completed_1](https://github.com/JonWakefield/TI-DLPDLCR2000EVM-PiHAT-PCB-Custom-Expansion-Board/assets/67289517/85294a06-a7e1-4a94-9ecb-3334c8d9b89f)
 
